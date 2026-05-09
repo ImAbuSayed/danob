@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> অন্ধকারে তুমি আমার প্রথম আলোর গান
+> তোমার ছায়ায় খুঁজে পেয়েছি তৃষ্ণার্ত এক প্রাণ
+> এই প্রেমের মায়ায় আমি হয়েছি আজ হারা
+> তুমি ছাড়া আমার এই আকাশ যে মাতোয়ারা
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
